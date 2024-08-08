@@ -1,0 +1,10 @@
+a=10
+b=20.5
+c='ABC'
+d=True
+e=5+8j
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))

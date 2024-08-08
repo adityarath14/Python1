@@ -1,0 +1,1 @@
+print('\n'.join(list(map(lambda a1:'*'*a1,range(5,0,-1)))))

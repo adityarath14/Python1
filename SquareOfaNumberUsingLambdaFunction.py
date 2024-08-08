@@ -1,0 +1,1 @@
+print((lambda v1:v1*v1)(19))

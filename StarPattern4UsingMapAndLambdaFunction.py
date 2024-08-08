@@ -1,0 +1,1 @@
+print('\n'.join(list(map(lambda sp,st:' '*sp+'*'*st,range(0,5),range(4,0,-1)))))

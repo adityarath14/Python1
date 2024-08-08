@@ -1,0 +1,1 @@
+print('\n'.join(list(map(lambda line:'*'*line,range(1,5)))))

@@ -1,0 +1,6 @@
+T=(55,33,55,88)
+print(sorted(T))
+print(sorted(T,reverse=True))
+print(T.count(55))
+print(T.count(220))
+print(T.index(88))
