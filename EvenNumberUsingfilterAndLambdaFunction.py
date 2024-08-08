@@ -1,0 +1,1 @@
+print(list(filter(lambda ele:ele%2==0,range(10,21))))
