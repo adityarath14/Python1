@@ -1,0 +1,1 @@
+print((lambda str1,str2,str3:str1+str2+str3)('a','b','c'))

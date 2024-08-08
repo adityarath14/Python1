@@ -1,0 +1,5 @@
+L1=list(map(int,input('Enter 4 Numbers:').split()))
+print(L1)
+L2=list(map(int,input('Enter 4 Numbers:').split()))
+print(L2)
+print([L1[ind]+L2[ind]for ind in range(len(L1))])

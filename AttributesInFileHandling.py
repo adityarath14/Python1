@@ -1,0 +1,8 @@
+filename=open('f1.txt','r')
+print(filename.name)
+print(filename.mode)
+print(filename.readable())
+print(filename.writable())
+print(filename.closed)
+filename.close()
+print(filename.closed)
