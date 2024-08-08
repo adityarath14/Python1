@@ -1,0 +1,1 @@
+print('\n'.join(list(map(lambda num:str(num)*num,range(1,5)))))

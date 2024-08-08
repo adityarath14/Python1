@@ -1,0 +1,1 @@
+print((lambda v1,v2,v3:v1+v2+v3)(11,22,33))

@@ -1,0 +1,9 @@
+L=[100,7,'Python','SQL',[5,6,7,8],100]
+print(L[2])
+print(L[-2])
+print(L[-2][-2])
+L[-2][-2]=500
+print(L)
+print(L[3][1])
+L[3]='Java'
+print(L)
